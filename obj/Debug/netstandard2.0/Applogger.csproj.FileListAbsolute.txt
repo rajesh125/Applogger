@@ -1,0 +1,9 @@
+H:\applogger\Applogger\bin\Debug\netstandard2.0\Applogger.deps.json
+H:\applogger\Applogger\bin\Debug\netstandard2.0\Applogger.dll
+H:\applogger\Applogger\bin\Debug\netstandard2.0\Applogger.pdb
+H:\applogger\Applogger\obj\Debug\netstandard2.0\Applogger.csprojAssemblyReference.cache
+H:\applogger\Applogger\obj\Debug\netstandard2.0\Applogger.AssemblyInfoInputs.cache
+H:\applogger\Applogger\obj\Debug\netstandard2.0\Applogger.AssemblyInfo.cs
+H:\applogger\Applogger\obj\Debug\netstandard2.0\Applogger.csproj.CoreCompileInputs.cache
+H:\applogger\Applogger\obj\Debug\netstandard2.0\Applogger.dll
+H:\applogger\Applogger\obj\Debug\netstandard2.0\Applogger.pdb

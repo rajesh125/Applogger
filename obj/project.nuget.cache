@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IluRYJzA/BsL+Tr5M0PPZWL2MEowWDNicpCnh+urqykTRUjYJvenfJ7R7Wd4RWopG30gtI00+ClkfAYg1VE2qQ==",
+  "success": true,
+  "projectFilePath": "H:\\applogger\\Applogger\\Applogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

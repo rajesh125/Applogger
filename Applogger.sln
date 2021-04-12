@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applogger", "Applogger.csproj", "{87A389BE-42BB-4033-ADB0-AA59B303003B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A389BE-42BB-4033-ADB0-AA59B303003B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A389BE-42BB-4033-ADB0-AA59B303003B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A389BE-42BB-4033-ADB0-AA59B303003B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A389BE-42BB-4033-ADB0-AA59B303003B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B241BA-D026-4BD3-99A6-1F36620E6744}
+	EndGlobalSection
+EndGlobal
